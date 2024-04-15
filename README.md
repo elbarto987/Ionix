@@ -118,4 +118,4 @@ Se proporciona documentación adicional en forma de comentarios en el código, a
 
 ## Licencia
 
-Este proyecto se distribuye bajo la Licencia [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+

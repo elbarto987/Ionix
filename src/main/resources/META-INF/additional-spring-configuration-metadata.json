@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "app.username",
+    "type": "java.lang.String",
+    "description": "A description for 'app.username'"
+  },
+  {
+    "name": "app.password",
+    "type": "java.lang.String",
+    "description": "A description for 'app.password'"
+  },
+  {
+    "name": "api.url.mackaroo",
+    "type": "java.lang.String",
+    "description": "A description for 'api.url.mackaroo'"
+  },
+  {
+    "name": "api.param.mackaroo",
+    "type": "java.lang.String",
+    "description": "A description for 'api.param.mackaroo'"
+  },
+  {
+    "name": "api.key.mackaroo",
+    "type": "java.lang.String",
+    "description": "A description for 'api.key.mackaroo'"
+  }
+]}
